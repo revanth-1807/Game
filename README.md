@@ -1,1 +1,0 @@
-This is a simple and fun game built using HTML, CSS, and JavaScript. The goal is to click on the red circle as quickly as possible to increase your score. The circle moves to a random position after each click, keeping the gameplay enga
